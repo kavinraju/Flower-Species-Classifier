@@ -1,5 +1,5 @@
 # Flower-Species-Classifier
-## This project was created during PyTorch Scholarship Challenge.
+## This project was created for PyTorch Scholarship Challenge.
 
 ### This repository has two models, one built [using resnet152]() and other [using densenet161]).
 

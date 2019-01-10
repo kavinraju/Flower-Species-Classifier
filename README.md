@@ -15,7 +15,7 @@ Accuracy of <b>98%</b>  &  Loss of <b>0.093781</b>
 ### Training 
 Accuracy of <b>95.0549%</b>  &  Loss of <b>0.186625 <b>
   
-## [flower_species_classifier_model_resnet152](https://github.com/kavinraju/Flower-Species-Classifier/blob/master/flower_species_classifier_model_resnet152.py) model.
+## [flower_species_classifier_model_resnet152.py](https://github.com/kavinraju/Flower-Species-Classifier/blob/master/flower_species_classifier_model_resnet152.py) model.
 
 Run this project in [Google Colab.](https://drive.google.com/open?id=1kmygz1LJUqpxlZAqktpbUQXo23MjKpm2)
 

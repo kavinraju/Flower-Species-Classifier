@@ -1,15 +1,11 @@
 # Flower-Species-Classifier
 ## This project was created for PyTorch Scholarship Challenge.
 
-### This repository has two models, one built [using resnet152]() and other [using densenet161]).
-
-Links:
-[resnet152](https://pytorch.org/docs/0.3.0/_modules/torchvision/models/resnet.html) model.
-[densenet161](https://pytorch.org/docs/0.3.0/_modules/torchvision/models/densenet.html) model.
+### This repository has two models, one built [using resnet152](https://pytorch.org/docs/0.3.0/_modules/torchvision/models/resnet.html) and other [using densenet161](https://pytorch.org/docs/0.3.0/_modules/torchvision/models/densenet.html).
 
 Do download the [data (train & valid)](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip) and [test data](https://github.com/cahya-wirawan/Udacity-Course/raw/master/flower_test.tgz).
 
-## [flower_species_classifier_model_densenet161.ipynb]((https://github.com/kavinraju/Flower-Species-Classifier/blob/master/flower_species_classifier_model_densenet161.ipynb) model:
+## [flower_species_classifier_model_densenet161.ipynb](https://github.com/kavinraju/Flower-Species-Classifier/blob/master/flower_species_classifier_model_densenet161.ipynb) model:
 
 ## Accuracy and Loss of this model
 ### Validation 
